@@ -3,7 +3,7 @@ import inoveLogo from "../../assets/img/inove_logo.png"
 const Footer = () => {
     return (
         <footer className={styles.footer}>
-            <a href="https://www.inove.com.ar"><img src={inoveLogo}></img></a>
+            <a href="https://www.inove.com.ar"><img alt={""} src={inoveLogo}></img></a>
         </footer>
     )
 }

@@ -9,7 +9,6 @@ import { eCommerceApi, usersSignup} from "../api/apiClient"
 const SignUpForm = (props) => {
   const {userData, setUserData } = useContext(UserContext);
   let navigate = useNavigate();
-  const { setAuthHook } = props;
 
   const handleSubmit = async (event) => {
     event.preventDefault();
