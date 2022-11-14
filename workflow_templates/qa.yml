@@ -1,4 +1,4 @@
-name: React CI_CD
+name: React CI_CD for QA env
 
 on:
   push:
