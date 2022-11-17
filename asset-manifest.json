@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.86de21bd.css",
-    "main.js": "/react-deploy/static/js/main.9522ffd0.js",
+    "main.css": "/react-deploy/static/css/main.41b7af03.css",
+    "main.js": "/react-deploy/static/js/main.2778d4f9.js",
     "static/js/787.b47559a7.chunk.js": "/react-deploy/static/js/787.b47559a7.chunk.js",
     "static/media/login_bg.png": "/react-deploy/static/media/login_bg.651e531ccae381b366ff.png",
     "static/media/spydermanBG.png": "/react-deploy/static/media/spydermanBG.293c34221528cb1b197c.png",
@@ -10,12 +10,12 @@
     "static/media/inove_logo.png": "/react-deploy/static/media/inove_logo.e5f24c18f253d4856e47.png",
     "static/media/marvel.svg": "/react-deploy/static/media/marvel.f64c057bbe349be7d601d4046d296c6c.svg",
     "index.html": "/react-deploy/index.html",
-    "main.86de21bd.css.map": "/react-deploy/static/css/main.86de21bd.css.map",
-    "main.9522ffd0.js.map": "/react-deploy/static/js/main.9522ffd0.js.map",
+    "main.41b7af03.css.map": "/react-deploy/static/css/main.41b7af03.css.map",
+    "main.2778d4f9.js.map": "/react-deploy/static/js/main.2778d4f9.js.map",
     "787.b47559a7.chunk.js.map": "/react-deploy/static/js/787.b47559a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86de21bd.css",
-    "static/js/main.9522ffd0.js"
+    "static/css/main.41b7af03.css",
+    "static/js/main.2778d4f9.js"
   ]
 }
