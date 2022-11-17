@@ -57,7 +57,7 @@ const LoginForm = (props) => {
     <div className={styles.Container}>
       <div className={styles.formContainer}>
         <div className={styles.initialMessage}>
-          <h1>Welcome</h1>
+          <h1>Welcome!</h1>
           <p>Log in to your account</p>
         </div>
         <form className="loginForm" onSubmit={handleSubmit}>
