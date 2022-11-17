@@ -18,7 +18,7 @@ function App() {
   const [userData, setUserData] = useState({
     firstName: "firstName",
     lastName: "lastName",
-    username: "Username",
+    username: "El Diego",
     email: "youremail@inove.com.ar",
     phone: "+54-9-11-1234-5678",
     country: "yourCountry",
